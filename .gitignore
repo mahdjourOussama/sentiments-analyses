@@ -1,4 +1,6 @@
 __pycache__/
 .vscode/
 .env
-.venv/
+.venv/*
+data/*
+tweet_sentiment_analysis*/
