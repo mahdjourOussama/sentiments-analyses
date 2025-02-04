@@ -2,3 +2,7 @@ pandas
 transformers
 matplotlib 
 seaborn
+nltk
+datasets
+scikit-learn
+torch
