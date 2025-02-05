@@ -4,3 +4,4 @@ __pycache__/
 .venv/*
 data/*
 tweet_sentiment_analysis*/
+test.py

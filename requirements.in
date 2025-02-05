@@ -6,3 +6,4 @@ nltk
 datasets
 scikit-learn
 torch
+textblob
