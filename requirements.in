@@ -1,9 +1,9 @@
 pandas
 transformers
-matplotlib 
+matplotlib
 seaborn
 nltk
 datasets
 scikit-learn
-torch
+torch @ https://download.pytorch.org/whl/cu126
 textblob
