@@ -10,6 +10,7 @@ This project focuses on comparing the fine-tuning process and the pre-trained mo
 - Sentiment classification using fine-tuned `distilbert-base-uncased` model
 - Sentiment classification using pre-trained `distilbert-base-uncased` model
 - Sentiment classification using TextBlob
+- Sentiment classification using Machine learning model with TF-IDF feature selection
 - Comparison of results
 - Visualization of results
 
