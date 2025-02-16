@@ -5,3 +5,4 @@ __pycache__/
 data/*
 tweet_sentiment_analysis*/
 test.py
+*.pkl
